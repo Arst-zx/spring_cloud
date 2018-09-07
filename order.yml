@@ -9,14 +9,7 @@ spring:
   jpa:
     show-sql: true
 
-eureka:
-  client:
-    service-url:
-      defaultZone: http://localhost:1111/eureka/
-
 PRODUCT:
   ribbon:
     NFLoadBalancerRuleClassName: com.netflix.loadbalancer.RandomRule
 
-server:
-  port: 9090
