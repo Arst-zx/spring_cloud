@@ -16,6 +16,6 @@ PRODUCT:
 env:
   dev1
   
-girl：
-  name：章鑫
-  age：27
+girl:
+  name: 章鑫
+  age: 27
