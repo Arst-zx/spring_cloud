@@ -14,7 +14,7 @@ PRODUCT:
     NFLoadBalancerRuleClassName: com.netflix.loadbalancer.RandomRule
 
 env:
-  dev6
+  dev1
   
 girl:
   name: 章鑫
